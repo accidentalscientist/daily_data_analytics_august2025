@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Data/logs (optional)
+*.log
+*.csv
+*.xlsx
+*.json
+
+# Ignore large output/analysis artifacts
+*.png
+*.svg
+*.pdf
