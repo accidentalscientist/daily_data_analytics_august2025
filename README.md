@@ -1,15 +1,21 @@
-# Daily Data Analytics – August 2025
+# 🌍 Macro Data Diaries – August 2025
 
-This project investigates Australia's energy supply mix by state using real energy fuel mix data, visualized to support climate change insights.
+I'm Thibault — a data analyst and storyteller exploring the forces shaping our world.  
+You can find more of my work at [accidentalscientist.net](https://accidentalscientist.net).
 
-## Key Features
-- Cleaned, categorized dataset
-- Stacked fuel-type charts for NSW and VIC
-- Renewable vs Non-renewable comparisons
-- Policy context and climate implications
+---
 
-## Notebooks
-- `climate_change_proof_part5.ipynb`: Includes the analysis, visualizations, and interpretations.
+## 📅 Weekly Themes
 
-## License
-MIT (or add your preferred one)
+- **Week 00** – *Climate Change Proof*  '
+- A data-driven attempt to visualise climate change using open temperature records, seasonal anomalies, and trend clarity.
+- **Week 01** – *Where the World is Going*
+- An exploration of global macroeconomic signals — GDP growth, inflation, debt, and trade balances — to map the trajectories of nations.
+- **Week 02** – Coming soon  
+- **Week 03** – Coming soon  
+- **Week 04** – Coming soon  
+
+---
+
+This is where the magic happens — exploratory notebooks, sharp visuals, and better questions.  
+Stay tuned for weeks 2–4.
