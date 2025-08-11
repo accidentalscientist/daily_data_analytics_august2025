@@ -21,6 +21,7 @@ Thumbs.db
 # Data/logs (optional)
 *.log
 *.csv
+*.xls
 *.xlsx
 *.json
 
